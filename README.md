@@ -50,7 +50,7 @@
 需要 Rust 1.70+（实测 `rustc 1.99.1`）。不需要任何网络依赖。
 
 ```bash
-git clone <this-repo> && cd atl-chain
+git clone https://github.com/Sunset1014/atl-chain.git && cd atl-chain
 cargo build --release
 ```
 
@@ -535,7 +535,7 @@ The price is that it is **not a production blockchain**. [Section 9](#9-security
 Rust 1.70+ required (tested on `rustc 1.99.1`). No network access needed.
 
 ```bash
-git clone <this-repo> && cd atl-chain
+git clone https://github.com/Sunset1014/atl-chain.git && cd atl-chain
 cargo build --release
 ```
 
